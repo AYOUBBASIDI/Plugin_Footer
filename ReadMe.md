@@ -4,7 +4,7 @@ To create a plugin, all you need to do is create a folder and then create a sing
 and create a new folder named "exemple_plugin". Inside this new folder, create a file named "exemple_plugin.php". Open the file in a text editor, 
 and paste the following information in it :
 
-```python
+```php
 
 <?php
    /*
